@@ -80,7 +80,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   De site komt redelijk goed uit de kleurenbind test. 
   
   wel kan de footer met groen en geel iets verbeterd worden qua monochroom.
-  <img src="readme-images/colorscreenshot.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/colorscreenshot.png" width="375px" alt="omschrijving van de pagina">
 
 </details>
 
