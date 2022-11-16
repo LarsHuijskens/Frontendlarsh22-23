@@ -65,9 +65,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   #### Muis en Toetsenbord 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
+  Omdat de site geen focus state heeft is hij moeilijk te bedienen.
 
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  Dit probleem kan worden opgelost door wel een focus state toe te voegen.
 
 
   #### Motoriek (shocks, elastiekjes)
@@ -77,9 +77,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  De site komt redelijk goed uit de kleurenbind test. 
+  
+  wel kan de footer met groen en geel iets verbeterd worden qua monochroom.
+  <img src="readme-images/colorscreenshot.jpg" width="375px" alt="omschrijving van de pagina">
 
 </details>
 
