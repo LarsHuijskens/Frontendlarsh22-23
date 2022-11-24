@@ -120,7 +120,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   | Lars           | Brianne       | Taurese   | student 4        |
   | ---            | ---                | ---          | ---              |
-  | vraag over dit | en dit             | en ik dit    | en dan ik dat    |
+  | beste volgorde om je website te cssen | en dit             | en ik dit    | en dan ik dat    |
   | en over dat    | dit als er tijd is | nog een punt | dit wil ik zeker |
   | ...            | ...                | ...          | ...              |
 
