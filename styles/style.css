@@ -37,7 +37,7 @@ body {
   background-color:var(--color-background);
 }
 
-nav {
+header nav:nth-of-type(2) {
 	padding:1em;
 	
 	display:grid;
