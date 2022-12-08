@@ -67,7 +67,7 @@ header nav:nth-of-type(2) {
   }
   
   /* als menu open is */
-  nav.open{
+  nav:nth-of-type(2).open{
 	transform:translateX(0%);
 	
   }
